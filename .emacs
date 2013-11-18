@@ -1,5 +1,5 @@
 ;;Dane's .emacs config file 
-;;May 27, 2013
+;;November 18, 2013
 
 
 ;;================  Respositories =============================
